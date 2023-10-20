@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-images_changeModalWindow/static/css/main.cd2e038f.css",
+    "main.js": "/goit-react-hw-04-images_changeModalWindow/static/js/main.be92f4a4.js",
+    "index.html": "/goit-react-hw-04-images_changeModalWindow/index.html",
+    "main.cd2e038f.css.map": "/goit-react-hw-04-images_changeModalWindow/static/css/main.cd2e038f.css.map",
+    "main.be92f4a4.js.map": "/goit-react-hw-04-images_changeModalWindow/static/js/main.be92f4a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e038f.css",
+    "static/js/main.be92f4a4.js"
+  ]
+}
